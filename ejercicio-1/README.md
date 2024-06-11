@@ -15,7 +15,7 @@ Modifica tu script para ahora mostrar solo el nombre de cada una de las personas
 
 ## Iteración 3
 
-Añade un parámetro a la función de nombre _dni_ . La función debe mostrar por consola un mensaje  indicando si a la persona que pertenece dicho DNI 
+Cambia el valor de la variable _dni_ a un dni, que exista, o no, en el fichero JSON. Muestra un mensaje por consola indicando dicha persona tiene notificaciones pendientes con hacienda o no. Mira el ejemplo.
 
 Estas ante un reto algorítmico. Es el caso de uso de buscar un elemento en un array si cumple cierta condición. 
 
@@ -24,6 +24,7 @@ Estas ante un reto algorítmico. Es el caso de uso de buscar un elemento en un a
 La ministra nos ha pedido un registro de toda esta actividad. Guarda en un fichero de nombre **notificaciones.txt** el mensaje que muestras por consola en la iteración anterior.
 
 No debes sobreescribir el contenido del fichero si no añadir la información al final del mismo.
+
 
 
 
