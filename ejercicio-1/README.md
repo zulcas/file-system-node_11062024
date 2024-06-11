@@ -8,10 +8,13 @@ La ministra nos ha pedido un script para automatizar esta tarea, y dado un DNI, 
 
 Carga el JSON usando NodeJS, y muestra **todo** el contenido del JSON por el terminal
 
+![](https://oscarm.tinytake.com/media/16447e1?filename=1718096895261_file-system-iteration+1.png&sub_type=thumbnail_preview&type=attachment&width=1199&height=568)
 
 ## Iteración 2
 
-Modifica tu script para ahora mostrar solo el nombre de cada una de las personas de este fichero. Debes recorrer el array de objetos y mostrar solo el nombre de cada persona. 
+Modifica tu script para ahora mostrar solo el nombre de cada una de las personas de este fichero. La variable que devuelve la función JSON.parse es un array de objetos. Debes recorrer el array  y mostrar solo el nombre de cada persona. 
+
+![](https://oscarm.tinytake.com/media/16447f8?filename=1718097097129_file-system-2.png&sub_type=thumbnail_preview&type=attachment&width=799&height=327)
 
 ## Iteración 3
 
