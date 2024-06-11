@@ -6,11 +6,12 @@ La ministra nos ha pedido un script para automatizar esta tarea, y dado un DNI, 
 
 ## Iteración 1
 
-Cara el JSON usando NodeJS, y muestra por pantalla cada uno de los objetos de este JSON
+Carga el JSON usando NodeJS, y muestra **todo** el contenido del JSON por el terminal
+
 
 ## Iteración 2
 
-Modifica tu script para ahora mostrar solo el nombre de cada una de las personas de este fichero
+Modifica tu script para ahora mostrar solo el nombre de cada una de las personas de este fichero. Debes recorrer el array de objetos y mostrar solo el nombre de cada persona. 
 
 ## Iteración 3
 
