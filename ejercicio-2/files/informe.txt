@@ -1,1 +1,77 @@
-Datos Asistencia clase: 2abril.﻿aaron sanchez sí ha asistido a la clase. Minutos asistidos: 276Óscar Miras no ha asistido a la clase.Esteban Piliponsky sí ha asistido a la clase. Minutos asistidos: 244Eddybei sí ha asistido a la clase. Minutos asistidos: 242Daud sí ha asistido a la clase. Minutos asistidos: 74nidaa kabbaj sí ha asistido a la clase. Minutos asistidos: 239Eva sí ha asistido a la clase. Minutos asistidos: 277maria sí ha asistido a la clase. Minutos asistidos: 235Balam sí ha asistido a la clase. Minutos asistidos: 187Zulema Casado García-Consuegra sí ha asistido a la clase. Minutos asistidos: 205Dani sí ha asistido a la clase. Minutos asistidos: 219Andrii Sharmar sí ha asistido a la clase. Minutos asistidos: 194Daud Peralta Adan sí ha asistido a la clase. Minutos asistidos: 167Kevin Hughes sí ha asistido a la clase. Minutos asistidos: 112Balam Castro sí ha asistido a la clase. Minutos asistidos: 24
+Datos Asistencia clase: 2abril.
+
+	--﻿aaron sanchez sí ha asistido a la clase. Minutos asistidos: 276.
+	--Óscar Miras no ha asistido a la clase. 
+	--Esteban Piliponsky sí ha asistido a la clase. Minutos asistidos: 244.
+	--Eddybei sí ha asistido a la clase. Minutos asistidos: 242.
+	--Daud sí ha asistido a la clase. Minutos asistidos: 74.
+	--nidaa kabbaj sí ha asistido a la clase. Minutos asistidos: 239.
+	--Eva sí ha asistido a la clase. Minutos asistidos: 277.
+	--maria sí ha asistido a la clase. Minutos asistidos: 235.
+	--Balam sí ha asistido a la clase. Minutos asistidos: 187.
+	--Zulema Casado García-Consuegra sí ha asistido a la clase. Minutos asistidos: 205.
+	--Dani sí ha asistido a la clase. Minutos asistidos: 219.
+	--Andrii Sharmar sí ha asistido a la clase. Minutos asistidos: 194.
+	--Daud Peralta Adan sí ha asistido a la clase. Minutos asistidos: 167.
+	--Kevin Hughes sí ha asistido a la clase. Minutos asistidos: 112.
+	--Balam Castro sí ha asistido a la clase. Minutos asistidos: 24.
+Datos Asistencia clase: 2mayo.
+
+	--﻿Óscar Miras no ha asistido a la clase. 
+	--Andrii sí ha asistido a la clase. Minutos asistidos: 252.
+	--aaron sanchez sí ha asistido a la clase. Minutos asistidos: 241.
+	--Zulema Casado García-Consuegra sí ha asistido a la clase. Minutos asistidos: 192.
+	--daniel salcedo sí ha asistido a la clase. Minutos asistidos: 246.
+	--Esteban Piliponsky sí ha asistido a la clase. Minutos asistidos: 245.
+	--Vanya Markova sí ha asistido a la clase. Minutos asistidos: 359.
+	--maria sí ha asistido a la clase. Minutos asistidos: 242.
+	--Balam Castro sí ha asistido a la clase. Minutos asistidos: 242.
+	--Daud sí ha asistido a la clase. Minutos asistidos: 71.
+	--nidaa kabbaj sí ha asistido a la clase. Minutos asistidos: 242.
+	--Eva sí ha asistido a la clase. Minutos asistidos: 241.
+	--Eddybei sí ha asistido a la clase. Minutos asistidos: 219.
+	--Daud Peralta Adan sí ha asistido a la clase. Minutos asistidos: 171.
+	--Kevin Hughes sí ha asistido a la clase. Minutos asistidos: 157.
+	--Eva Huertas sí ha asistido a la clase. Minutos asistidos: 33.
+Datos Asistencia clase: 3abril.
+
+	--﻿Nicolas Quiroga Mateus sí ha asistido a la clase. Minutos asistidos: 93.
+	--Andrii Sharmar sí ha asistido a la clase. Minutos asistidos: 243.
+	--Eddybei sí ha asistido a la clase. Minutos asistidos: 58.
+	--Eva sí ha asistido a la clase. Minutos asistidos: 200.
+	--Daud sí ha asistido a la clase. Minutos asistidos: 106.
+	--maria sí ha asistido a la clase. Minutos asistidos: 242.
+	--Esteban Piliponksy sí ha asistido a la clase. Minutos asistidos: 27.
+	--Vanya sí ha asistido a la clase. Minutos asistidos: 37.
+	--Balam sí ha asistido a la clase. Minutos asistidos: 238.
+	--Zulema Casado García-Consuegra sí ha asistido a la clase. Minutos asistidos: 237.
+	--daniel salcedo sí ha asistido a la clase. Minutos asistidos: 218.
+	--Óscar Miras no ha asistido a la clase. 
+	--Esteban Piliponsky sí ha asistido a la clase. Minutos asistidos: 213.
+	--94849208356 sí ha asistido a la clase. Minutos asistidos: 2.
+	--nidaa kabbaj sí ha asistido a la clase. Minutos asistidos: 194.
+	--nicolas quiroga sí ha asistido a la clase. Minutos asistidos: 170.
+	--Vanya Markova sí ha asistido a la clase. Minutos asistidos: 177.
+	--Daud Peralta Adan sí ha asistido a la clase. Minutos asistidos: 136.
+	--Dani sí ha asistido a la clase. Minutos asistidos: 17.
+	--Kevin Hughes sí ha asistido a la clase. Minutos asistidos: 244.
+Datos Asistencia clase: 3junio.
+
+	--﻿aaron sanchez sí ha asistido a la clase. Minutos asistidos: 245.
+	--Daud sí ha asistido a la clase. Minutos asistidos: 92.
+	--Óscar Miras no ha asistido a la clase. 
+	--Zulema Casado García-Consuegra sí ha asistido a la clase. Minutos asistidos: 240.
+	--nidaa kabbaj sí ha asistido a la clase. Minutos asistidos: 258.
+	--Eva sí ha asistido a la clase. Minutos asistidos: 40.
+	--maria sí ha asistido a la clase. Minutos asistidos: 253.
+	--Balam sí ha asistido a la clase. Minutos asistidos: 251.
+	--Esteban Piliponksy sí ha asistido a la clase. Minutos asistidos: 152.
+	--Vanya Markova sí ha asistido a la clase. Minutos asistidos: 412.
+	--daniel salcedo sí ha asistido a la clase. Minutos asistidos: 183.
+	--Andrii Sharmar sí ha asistido a la clase. Minutos asistidos: 233.
+	--aaronn sanchez sí ha asistido a la clase. Minutos asistidos: 210.
+	--Eva Huertas sí ha asistido a la clase. Minutos asistidos: 223.
+	--Daud Peralta Adan sí ha asistido a la clase. Minutos asistidos: 184.
+	--Kevin Hughes sí ha asistido a la clase. Minutos asistidos: 166.
+	--Esteban Piliponsky sí ha asistido a la clase. Minutos asistidos: 94.
+	--Dani sí ha asistido a la clase. Minutos asistidos: 41.

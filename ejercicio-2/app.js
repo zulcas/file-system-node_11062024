@@ -1,39 +1,35 @@
 // call fs module
 const fs = require('fs');
 const readline = require('readline')
-let fileName = "2abril_participants_94849208356.csv"
-let asistentes = [];
-let date = "";
 
 //Obtengo nombre todos los ficheros
 let ficheros = fs.readdirSync("./files");
-
-
-//read File async
-fs.readFile(`./files/${fileName}`, "utf-8", (err, data) =>{
-    asistentes = obtenerListaAsistentes(data);
-    //console.log(asistentes);
-    date = fileName.split('_')[0];
-    datosAsistentes(asistentes, date);
-
+ficheros.forEach(file=>{
+    if(file.includes("csv")){
+        //read File async
+        data = fs.readFileSync(`./files/${file}`, "utf-8");
+        let asistentes = obtenerListaAsistentes(data);
+        let date = file.split('_')[0];
+        datosAsistentes(asistentes, date);
+    }
 })
 
 function datosAsistentes(asistentes, date){
-    fs.appendFileSync("./files/informe.txt", `Datos Asistencia clase: ${date}.`);
+    fs.appendFileSync("./files/informe.txt", `Datos Asistencia clase: ${date}.\n\n`);
     asistentes.forEach(persona =>{
         if(persona.presente =="Sí"){
-            fs.appendFileSync("./files/informe.txt", `${persona.nombre} sí ha asistido a la clase. Minutos asistidos: ${persona.duracion}`);
+            fs.appendFileSync("./files/informe.txt", `\t--${persona.nombre} sí ha asistido a la clase. Minutos asistidos: ${persona.duracion}.\n`);
         }else{
-            fs.appendFileSync("./files/informe.txt",`${persona.nombre} no ha asistido a la clase.`)  
+            fs.appendFileSync("./files/informe.txt",`\t--${persona.nombre} no ha asistido a la clase. \n`)  
         }
     })
 }
 
 function obtenerListaAsistentes (data){
-    let listaCruda = data.split('\n');
+    let listaCruda = data.split('\r\n');
     let asistentes = [];
     listaCruda.forEach(persona =>{
-        persona = persona.replace('\r', '');
+        console.log(persona)
         persona = persona.split(',');
         //Creamos una lista de objetos persona
         asistentes.push(
